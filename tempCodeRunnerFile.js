@@ -1,0 +1,1 @@
+messageEl.textContent=message;
